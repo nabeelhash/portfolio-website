@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/* src/index.css or App.css */
+/* src/index.css or src/App.css */
+body {
+  @apply font-sans; /* Tailwind utility to apply the sans-serif font (Roboto in this case) */
+}
